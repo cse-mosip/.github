@@ -1,1 +1,1 @@
-# .github
+Welcome to the GitHub organization for the Department of Computer Science and Engineering at the University of Moratuwa's implementation of a simplified MOSIP (Modular Open Source Identity Platform). Our project aims to develop a customizable and secure identity management system for citizen services and social welfare programs. Join us in shaping the future of foundational identity systems and explore our repositories for the latest developments and opportunities for collaboration
